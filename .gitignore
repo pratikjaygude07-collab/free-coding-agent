@@ -8,3 +8,4 @@ agent_logs/
 agent_backups/
 practice_project/
 taskboard_project/
+*.zip
