@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+agent_logs/
+agent_backups/
+practice_project/
+taskboard_project/
